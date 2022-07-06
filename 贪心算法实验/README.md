@@ -34,8 +34,10 @@
 1. [Code.py](./Code.py) 算法实现的python版本
 
 ## 实验预期结果与实际结果
-+ 实验预期结果：比较次数上 
++ 实验预期结果：实验中，随着物品数量的增加，时间消耗也同步上升，但并不会增高许多，在时间复杂度上
+算法的复杂度接近于归并排序的复杂度
 
 + 实验过程及实验结果（Python版）：
 
 
+![image](https://github.com/weixing18/Homework/blob/main/Greedy.png)
