@@ -37,5 +37,5 @@
 + 实验过程及实验结果（Python版）：
 
 
-![image](https://github.com/weixing18/Homework/blob/main/Divide.png)
+![image](https://github.com/weixing18/Homework/blob/main/Dynamic.png)
 
